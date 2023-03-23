@@ -696,7 +696,7 @@ a.text-primary:hover {
 
 .text-secondary { color: #6c757d !important; }
 .text-white { color: #FFF !important; }
-.text-gray { color: #b9b9b9 !important; }
+.text-gray { color: black !important; }
 .text-gray-2 { color: #CCC !important; }
 .text-gray-3 { color: #DDD !important; }
 .text-dark { color: #272727 !important; }
